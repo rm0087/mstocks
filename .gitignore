@@ -70,6 +70,6 @@ server/json
 
 server/backup
 
-server/instance/app-copy.db
+server/instance/*.db
 
 
