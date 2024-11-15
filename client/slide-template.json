@@ -1,0 +1,31 @@
+{
+    "id": 0,
+    "type": "2",
+    "images":[],
+    "animations":[],
+    "videos":[],
+    "en": {
+        "title": "",
+        "soundtrack": "",
+        "subtitles": "",
+        "listHeads": [],
+        "listPoints": [],
+        "uniqueMedia":[]
+    },
+    "es": {
+        "title": "",
+        "soundtrack": "",
+        "subtitles": "",
+        "listHeads": [],
+        "listPoints": [],
+        "uniqueMedia":[]
+    },
+    "vi": {
+        "title": "",
+        "soundtrack": "",
+        "subtitles": "",
+        "listHeads": [],
+        "listPoints": [],
+        "uniqueMedia":[]
+    }
+}
