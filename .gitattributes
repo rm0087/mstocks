@@ -1,1 +1,2 @@
 *.db filter=lfs diff=lfs merge=lfs -text
+server/instance/app.db filter=lfs diff=lfs merge=lfs -text
